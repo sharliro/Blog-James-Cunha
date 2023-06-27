@@ -183,12 +183,15 @@ button.btn:hover {
 
 #logojames {
     position: absolute;
-    top: 48px;
+    top: 30px;
     width: 100px;
-    right: 20px;
+    right: 135px;
     border-radius: 50%;
 }
+#logoc{
+    position: absolute;
 
+}
 
 /**********************************/
 /*********** Brand CSS ************/
@@ -1378,4 +1381,10 @@ button.btn:hover {
 }
 #logo{
     text-align: right;
+}
+#logoj{
+    
+    width: 350px;
+    height: 100;
+    border-radius: 30px;
 }
