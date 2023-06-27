@@ -71,6 +71,7 @@ h6 {
 }
 
 
+
 /**********************************/
 /********* Form Input CSS *********/
 /**********************************/
@@ -178,6 +179,14 @@ button.btn:hover {
     .top-bar .tb-menu {
         text-align: center;
     }
+}
+
+#logojames {
+    position: absolute;
+    top: 2px;
+    width: 100px;
+    right: -53px;
+    border-radius: 50%;
 }
 
 
@@ -781,7 +790,7 @@ button.btn:hover {
 }
 
 .single-news .sn-img img {
-    width: 100 %;
+    width: 100%a;
 }
 
 .single-news .sn-content {
