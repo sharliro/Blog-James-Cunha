@@ -183,9 +183,9 @@ button.btn:hover {
 
 #logojames {
     position: absolute;
-    top: 2px;
+    top: 48px;
     width: 100px;
-    right: -53px;
+    right: 22px;
     border-radius: 50%;
 }
 
@@ -1375,4 +1375,7 @@ button.btn:hover {
 }
 #textdata{
     text-align: center;
+}
+#logo{
+    text-align: right;
 }
